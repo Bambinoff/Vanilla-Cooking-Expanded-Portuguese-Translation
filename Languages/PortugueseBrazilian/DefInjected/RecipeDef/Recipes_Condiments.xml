@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_ChopCondiments.label>misturar condimentos em ração</VCE_ChopCondiments.label>
+  <VCE_ChopCondiments.description>Misture um punhado de condimentos diferentes em uma massa orgânica quase comest&#237;vel que pode ser dada aos animais. Ainda melhor do que comida para animais de estimação de supermercado.</VCE_ChopCondiments.description>
+  <VCE_ChopCondiments.jobString>Misturando condimentos em ração.</VCE_ChopCondiments.jobString>
+
+  <VCE_AgaveNectar.label>fazer néctar de agave</VCE_AgaveNectar.label>
+  <VCE_AgaveNectar.description>Crie néctar de agave a partir de agave. O néctar de agave é um néctar fino e semidoce, conhecido por suas propriedades cicatrizantes e antiinflamatórias.</VCE_AgaveNectar.description>
+  <VCE_AgaveNectar.jobString>Fazendo néctar de agave.</VCE_AgaveNectar.jobString>
+
+  <VCE_InsectJellyPreserves.label>fazer conserva de geleia de inseto</VCE_InsectJellyPreserves.label>
+  <VCE_InsectJellyPreserves.description>Crie conservas de geleia de inseto a partir de geleia de inseto. Muito rico e doce, embora seja surpreendentemente saudável.</VCE_InsectJellyPreserves.description>
+  <VCE_InsectJellyPreserves.jobString>Fazendo conserva de geleia de inseto.</VCE_InsectJellyPreserves.jobString>
+
+  <VCE_Mayo.label>fazer maionese</VCE_Mayo.label>
+  <VCE_Mayo.description>Crie maionese de ovos. Uma espessa emulsão de ovo, óleo e outras ervas. A maionese, embora terr&#237;vel para você, tem um sabor agradável e é muito calórica.</VCE_Mayo.description>
+  <VCE_Mayo.jobString>Fazendo maionese.</VCE_Mayo.jobString>
+
+  <VCE_SmokeleafButter.label>fazer manteiga de folha-de-fumo</VCE_SmokeleafButter.label>
+  <VCE_SmokeleafButter.description>Crie manteiga de folha-de-fumo a partir de folha-de-fumo e leite. Uma substância gordurosa e espessa, produzida ao bater o leite em um creme bem espesso, combinando-se com o óleo de folha-de-fumo e permitindo que se solidifique. Muito prejudicial &#224; saúde e bate um pouco mais forte do que um baseado.</VCE_SmokeleafButter.description>
+  <VCE_SmokeleafButter.jobString>Fazendo manteiga de folha-de-fumo.</VCE_SmokeleafButter.jobString>
+
+  <VCE_ChocolateSyrup.label>fazer calda de chocolate</VCE_ChocolateSyrup.label>
+  <VCE_ChocolateSyrup.description>Crie calda de chocolate a partir de chocolate geneticamente modificado. Embora ainda não seja bom para você, a calda de chocolate não é tão ruim quanto o açúcar puro.</VCE_ChocolateSyrup.description>
+  <VCE_ChocolateSyrup.jobString>Fazendo calda de chocolate.</VCE_ChocolateSyrup.jobString>
+
+
+</LanguageData>

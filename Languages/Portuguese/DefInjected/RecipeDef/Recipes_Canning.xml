@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_CanMeats.label>carne enlatada x20</VCE_CanMeats.label>
+  <VCE_CanMeats.description>Armazene com segurança os pedaços de carne em uma lata de aço. Alimentos enlatados estendem sua vida útil quase indefinidamente.</VCE_CanMeats.description>
+  <VCE_CanMeats.jobString>Enlatando carnes.</VCE_CanMeats.jobString>
+
+  <VCE_CanProduce.label>vegetal enlatado x20</VCE_CanProduce.label>
+  <VCE_CanProduce.description>Armazene com segurança frutas ou legumes em uma lata de aço. Alimentos enlatados estendem sua vida útil quase indefinidamente.</VCE_CanProduce.description>
+  <VCE_CanProduce.jobString>Enlatando vegetais.</VCE_CanProduce.jobString>
+
+  <VCE_CanEggs.label>ovo enlatado x20</VCE_CanEggs.label>
+  <VCE_CanEggs.description>Armazene com segurança ovos cozidos em uma lata de aço. Alimentos enlatados estendem sua vida útil quase indefinidamente.</VCE_CanEggs.description>
+  <VCE_CanEggs.jobString>Enlatando ovos.</VCE_CanEggs.jobString>
+
+
+</LanguageData>

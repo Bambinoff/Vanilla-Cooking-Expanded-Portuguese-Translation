@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modMetaData>
+  <name>Vanilla Cooking Expanded (Tradução Português)</name>
+<author>Bambino</author>
+<supportedVersions>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+<packageId>Bambino.TradVCookE</packageId>
+  	 <modDependencies>
+        <li>
+            <packageId>VanillaExpanded.VCookE</packageId>
+            <displayName>Vanilla Cooking Expanded</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/2134308519</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+	<loadAfter>
+	<li>VanillaExpanded.VCookE</li>
+	</loadAfter>
+  <description>Adiciona uma tradução em português ao mod "Vanilla Cooking Expanded" de Oskar Potocki.
+ Compativel com <b>PortugueseBrazilian (Português Brasileiro)</b> e <b>Portuguese (Português Europeu)</b>
+<b>Atenção</b> Esse mod não inclui o mod original, somente arquivos da tradução em português estão incluidos. 
+ Vanilla Cooking Expanded deve estar listado na lista de mods antes da tradução em português
+Core
+<b>Vanilla Cooking Expanded</b>
+Vanilla Cooking Expanded (Portuguese Translation)</description>
+</modMetaData>

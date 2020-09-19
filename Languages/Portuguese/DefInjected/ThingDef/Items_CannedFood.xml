@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_CannedMeat.label>carne enlatada</VCE_CannedMeat.label>
+  <VCE_CannedMeat.description>Carne selada a vácuo e protegida em uma lata de aço efetivamente estendendo a vida útil indefinidamente. Embora comest&#237;vel frio direto da lata, é muito mais nutritivo misturado &#224; refeição e aquecido. Consumir muitos alimentos enlatados pode causar um aumento na pressão arterial.</VCE_CannedMeat.description>
+
+  <VCE_CannedProduce.label>vegetal enlatado</VCE_CannedProduce.label>
+  <VCE_CannedProduce.description>Vegetal selado a vácuo e protegido em uma lata de aço efetivamente estendendo a vida útil indefinidamente. Embora comest&#237;vel frio direto da lata, é muito mais nutritivo misturado &#224; refeição e aquecido. Consumir muitos alimentos enlatados pode causar um aumento na pressão arterial.</VCE_CannedProduce.description>
+
+  <VCE_CannedAP.label>ovo enlatado</VCE_CannedAP.label>
+  <VCE_CannedAP.description>Ovo cozido selado a vácuo e protegido em uma lata de aço efetivamente estendendo a vida útil indefinidamente. Embora comest&#237;vel frio direto da lata, é muito mais nutritivo misturado &#224; refeição e aquecido. Consumir muitos alimentos enlatados pode causar um aumento na pressão arterial.</VCE_CannedAP.description>
+
+  <VCE_CannedFish.label>peixe enlatado</VCE_CannedFish.label>
+  <VCE_CannedFish.description>Peixe selado a vácuo e protegido em uma lata de aço efetivamente estendendo a vida útil indefinidamente. Embora comest&#237;vel frio direto da lata, é muito mais nutritivo misturado &#224; refeição e aquecido. Consumir muitos alimentos enlatados pode causar um aumento na pressão arterial.</VCE_CannedFish.description>
+
+
+</LanguageData>

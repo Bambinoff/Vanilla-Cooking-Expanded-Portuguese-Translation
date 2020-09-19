@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_AgaveNectar.label>néctar de agave</VCE_AgaveNectar.label>
+  <VCE_AgaveNectar.description>Néctar fino e semidoce, conhecido por suas propriedades cicatrizantes e antiinflamatórias. Embora mais saudável que o açúcar, seu alto teor de frutose pode ser prejudicial se ingerido constantemente.</VCE_AgaveNectar.description>
+
+  <VCE_RawSugar.label>açúcar</VCE_RawSugar.label>
+  <VCE_RawSugar.description>Açúcar de cana cristalino simples, adiciona uma doçura muito desejada. Embora o açúcar seja bom para a l&#237;ngua, não é tão bom para os rins e pode causar diabetes rapidamente quando ingerido em massa. O açúcar é facilmente convertido em energia pelo corpo, o que pode resultar em uma boa explosão de energia.</VCE_RawSugar.description>
+
+  <VCE_RawSpices.label>especiarias</VCE_RawSpices.label>
+  <VCE_RawSpices.description>Uma variedade de especiarias aromáticas e picantes, adiciona várias notas agudas na l&#237;ngua e dá um toque de vitalidade.</VCE_RawSpices.description>
+
+  <VCE_Salt.label>sal</VCE_Salt.label>
+  <VCE_Salt.description>O sal-gema, como o sal comum, melhora o perfil de sabor de outros ingredientes com os quais é cozido. A ingestão constante tende a causar um aumento da pressão arterial.</VCE_Salt.description>
+
+  <VCE_Mayo.label>maionese</VCE_Mayo.label>
+  <VCE_Mayo.description>Uma espessa emulsão de ovo, óleo e outras ervas. A maionese, embora terr&#237;vel para você, tem um sabor agradável e é muito calórica.</VCE_Mayo.description>
+
+  <VCE_InsectJellyPreserves.label>conserva de geleia de inseto</VCE_InsectJellyPreserves.label>
+  <VCE_InsectJellyPreserves.description>Geleia de inseto cortada com adoçante e selada como uma conserva. Muito rico e doce, ao mesmo tempo que é surpreendentemente saudável.</VCE_InsectJellyPreserves.description>
+
+  <VCE_SmokeleafButter.label>manteiga de folha-de-fumo</VCE_SmokeleafButter.label>
+  <VCE_SmokeleafButter.description>Uma substância gordurosa e espessa, produzida ao bater o leite em um creme bem espesso, combinando-se com o óleo de folha-de-fumo e permitindo que se solidifique. Muito prejudicial &#224; saúde e bate um pouco mais forte do que um baseado.</VCE_SmokeleafButter.description>
+
+  <VCE_ChocolateSyrup.label>calda de chocolate</VCE_ChocolateSyrup.label>
+  <VCE_ChocolateSyrup.description>Uma mistura de cacau, água e açúcar, formando um xarope agridoce, ideal para cobrir sobremesas. Embora ainda não seja bom para você, a calda de chocolate não é tão ruim quanto o açúcar puro.</VCE_ChocolateSyrup.description>
+
+  <VCE_DigestibleResurrectorNanites.label>nanites ressurretores digest&#237;veis</VCE_DigestibleResurrectorNanites.label>
+  <VCE_DigestibleResurrectorNanites.description>Uma mistura extremamente alta tecnologia de glitterworld, inseguro para beber diretamente devido ao gosto amargo e um caso leve de hemorragia intraventricular. No entanto, quando cozidos corretamente em alimentos, esses efeitos inexplicavelmente parecem anulados. Qualquer peão com este presente após a morte será imediatamente revivido como por milagre.</VCE_DigestibleResurrectorNanites.description>
+
+
+</LanguageData>

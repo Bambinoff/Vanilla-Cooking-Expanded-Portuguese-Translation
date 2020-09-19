@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Food crops -->
+
+  <VCE_Sugarcane.label>planta de cana-de-açúcar</VCE_Sugarcane.label>
+  <VCE_Sugarcane.description>Uma planta tropical espessa e alta com caule articuladas. Embora não seja exatamente a coisa mais nutritiva de se comer sozinha, esta cana-de-açúcar geneticamente modificada é facilmente mo&#237;da em açúcar e então usada para uma variedade de criações culinárias - especialmente sobremesas.</VCE_Sugarcane.description>
+
+  <VCE_Allspice.label>planta de pimenta-da-jamaica</VCE_Allspice.label>
+  <VCE_Allspice.description>Uma videira folhosa e anômala com pequenos frutos verdes intragáveis. Quando finamente mo&#237;das durante o cozimento, as frutas liberam um sabor complexo e apimentado, perfeito para temperar pratos.</VCE_Allspice.description>
+
+  <VCE_Wheat.label>planta de trigo</VCE_Wheat.label>
+  <VCE_Wheat.description>Uma planta de cereal âmbar que leva quase uma estação de crescimento inteira para chegar &#224; fruição. Embora frágil e demorado, este trigo foi geneticamente modificado para se quebrar suavemente em farinha com um simples toque.</VCE_Wheat.description>
+
+
+</LanguageData>

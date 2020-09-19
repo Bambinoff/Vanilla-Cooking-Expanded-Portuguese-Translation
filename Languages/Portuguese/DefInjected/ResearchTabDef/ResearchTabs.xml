@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Para adicionar uma guia de pesquisa, faça um novo ResearchTabDef aqui e, em seguida, defina o campo <tab> do seu projeto de pesquisa para corresponder a ele -->
+
+  <VCE_Cooking.label>Cooking Expanded</VCE_Cooking.label>
+
+
+</LanguageData>

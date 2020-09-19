@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_DeepFryMeats.label>fritas carnes x20</VCE_DeepFryMeats.label>
+  <VCE_DeepFryMeats.description>Frite grandes pedaços de carne. Alimentos fritos são muito saborosos, mas não são muito bons para a saúde.</VCE_DeepFryMeats.description>
+  <VCE_DeepFryMeats.jobString>fritando carnes.</VCE_DeepFryMeats.jobString>
+
+  <VCE_DeepFryVegetables.label>fritas vegetais x20</VCE_DeepFryVegetables.label>
+  <VCE_DeepFryVegetables.description>Frite os vegetais. Alimentos fritos são muito saborosos, mas não são muito bons para a saúde.</VCE_DeepFryVegetables.description>
+  <VCE_DeepFryVegetables.jobString>fritando vegetais.</VCE_DeepFryVegetables.jobString>
+
+
+</LanguageData>

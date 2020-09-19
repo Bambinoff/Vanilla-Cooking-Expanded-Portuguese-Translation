@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_SimpleBake.label>assado simples</VCE_SimpleBake.label>
+  <VCE_SimpleBake.description>Um assado simples rapidamente preparada com alguns ingredientes e farinha.</VCE_SimpleBake.description>
+
+  <VCE_FineBake.label>assado bom</VCE_FineBake.label>
+  <VCE_FineBake.description>Um assado complexo feito com cuidado a partir de uma boa variedade de ingredientes e farinha.</VCE_FineBake.description>
+
+  <VCE_LavishBake.label>assado luxuoso</VCE_LavishBake.label>
+  <VCE_LavishBake.description>Uma obra-prima da arte culinária, este assado nutre o corpo, a mente e alma.</VCE_LavishBake.description>
+
+  <VCE_GourmetBake.label>assado gourmet</VCE_GourmetBake.label>
+  <VCE_GourmetBake.description>Esse assado é uma obra de arte gastronômica, caracterizada por uma requintada preparação elaborada e apresentação esteticamente equilibrada, embora em pequena quantidade.</VCE_GourmetBake.description>
+
+
+</LanguageData>

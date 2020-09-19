@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_CondimentsResearch.label>condimentos alimentares</VCE_CondimentsResearch.label>
+  <VCE_CondimentsResearch.description>Um condimento é um tempero, molho ou preparação que é adicionado &#224; comida, após ou durante o cozimento, para transmitir um sabor espec&#237;fico, para melhorar o sabor, ou para complementar o prato. Todos os condimentos são criados na mesa de preparação de condimentos.</VCE_CondimentsResearch.description>
+
+  <VCE_SoupCooking.label>cozinhar sopa</VCE_SoupCooking.label>
+  <VCE_SoupCooking.description>A sopa é um alimento basicamente l&#237;quido, geralmente servido morno ou quente, feito pela combinação de ingredientes de carne ou vegetais com caldo ou água. Além disso as sopas quentes são caracterizadas por ferver ingredientes sólidos em l&#237;quidos em uma panela até que os sabores sejam extra&#237;dos. Essa pesquisa também dá acesso &#224; panela elétrica necessária para cozinhar sopas.</VCE_SoupCooking.description>
+
+  <VCE_Grilling.label>churrasco</VCE_Grilling.label>
+  <VCE_Grilling.description>Grelhar é uma forma de cozinhar que envolve calor seco aplicado &#224; superf&#237;cie dos alimentos, geralmente de cima, de baixo ou de lado. Grelhar geralmente envolve uma quantidade significativa de calor direto e radiante e tende a ser usado para cozinhar carne e vegetais rapidamente. Essa pesquisa dá acesso &#224; churrasqueira.</VCE_Grilling.description>
+
+  <VCE_DeepFrying.label>frituras</VCE_DeepFrying.label>
+  <VCE_DeepFrying.description>A fritar é um método de cozimento no qual o alimento é submerso em gordura quente, mais comumente óleo, ao contrário do fio de óleo usado na fritura convencional feita em uma frigideira. Esta pesquisa dá acesso &#224; fritadeira.</VCE_DeepFrying.description>
+
+  <VCE_Canning.label>enlatamento</VCE_Canning.label>
+  <VCE_Canning.description>Enlatar é um método de preservação de alimentos no qual o conteúdo dos alimentos é processado e selado em um recipiente hermético. O enlatamento oferece uma vida útil de vários anos. Um produto enlatado liofilizado, como lentilhas secas enlatadas, pode durar até 30 anos em estado comest&#237;vel. Esta pesquisa dá acesso &#224; máquina de enlatar.</VCE_Canning.description>
+
+  <VCE_CheeseMaking.label>fabricação de queijo</VCE_CheeseMaking.label>
+  <VCE_CheeseMaking.description>A produção de queijo é uma arte, como muitos outros processos de conservação de alimentos, permite que o valor nutricional e econômico do leite seja preservado na forma concentrada. A fabricação de queijo permite a produção do queijo com diversos sabores e consistências. Esta pesquisa dá acesso &#224; prensa de queijos.</VCE_CheeseMaking.description>
+
+
+</LanguageData>

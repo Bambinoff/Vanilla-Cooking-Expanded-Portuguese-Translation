@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_DeepFriedBigMeat.label>carne frita</VCE_DeepFriedBigMeat.label>
+  <VCE_DeepFriedBigMeat.description>A carne é amaciada e cortada em tiras, depois enrolada em uma massa espessa antes de ser submersa em óleo quente e frita. O resultado final é um alimento bem crocante e saboroso, mas não muito saudável. Não tão satisfatório quanto uma refeição, mas muito agradável de comer. Fritar carnes nesse modo reduz a vida útil, a menos que sejam congeladas.</VCE_DeepFriedBigMeat.description>
+
+  <VCE_DeepFriedVegetables.label>vegetal frito</VCE_DeepFriedVegetables.label>
+  <VCE_DeepFriedVegetables.description>O vegetal é cortado em julienne, depois seco antes de ser mergulhado em óleo quente até dourar. Por mais crocantes e agradáveis que sejam, essas iguarias fritas não são tão satisfatório quanto uma refeição normal, nem tão saudáveis. Fritar vegetais nesse modo reduz a vida útil, a menos que sejam congelados.</VCE_DeepFriedVegetables.description>
+
+  <VCE_DeepFriedFish.label>peixe frito</VCE_DeepFriedFish.label>
+  <VCE_DeepFriedFish.description>O peixe é limpo e filetado, depois enrolado numa massa espessa antes de ser submerso em óleo quente e frito. O resultado final é um alimento bem crocante e saboroso, mas não muito saudável. não tão satisfatório quanto uma refeição, mas muito agradável de comer. Fritar peixes nesse modo reduz a vida útil, a menos que sejam congelados.</VCE_DeepFriedFish.description>
+
+
+</LanguageData>

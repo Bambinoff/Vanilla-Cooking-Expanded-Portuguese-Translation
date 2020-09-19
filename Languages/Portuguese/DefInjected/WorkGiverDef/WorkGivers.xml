@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <IP_InsertFirstIngredient.label>trazer ingrediente</IP_InsertFirstIngredient.label>
+  <IP_InsertFirstIngredient.verb>trazer ingrediente para</IP_InsertFirstIngredient.verb>
+  <IP_InsertFirstIngredient.gerund>trazendo ingrediente para</IP_InsertFirstIngredient.gerund>
+
+  <IP_InsertSecondIngredient.label>trazer ingrediente</IP_InsertSecondIngredient.label>
+  <IP_InsertSecondIngredient.verb>trazer ingrediente para</IP_InsertSecondIngredient.verb>
+  <IP_InsertSecondIngredient.gerund>trazendo ingrediente para</IP_InsertSecondIngredient.gerund>
+
+  <IP_InsertThirdIngredient.label>trazer ingrediente</IP_InsertThirdIngredient.label>
+  <IP_InsertThirdIngredient.verb>trazer ingrediente para</IP_InsertThirdIngredient.verb>
+  <IP_InsertThirdIngredient.gerund>trazendo ingrediente para</IP_InsertThirdIngredient.gerund>
+
+  <IP_RemoveProduct.label>remover produto finalizado</IP_RemoveProduct.label>
+  <IP_RemoveProduct.verb>remover produto finalizado de</IP_RemoveProduct.verb>
+  <IP_RemoveProduct.gerund>removendo produto finalizado de</IP_RemoveProduct.gerund>
+
+  <VCE_DoBillsGrill.label>cozinhar na churrasqueira</VCE_DoBillsGrill.label>
+  <VCE_DoBillsGrill.verb>grelhar</VCE_DoBillsGrill.verb>
+  <VCE_DoBillsGrill.gerund>grelhando na</VCE_DoBillsGrill.gerund>
+
+  <VCE_DoBillsFryer.label>cozinhar na fritadeira</VCE_DoBillsFryer.label>
+  <VCE_DoBillsFryer.verb>fritar</VCE_DoBillsFryer.verb>
+  <VCE_DoBillsFryer.gerund>fritando na</VCE_DoBillsFryer.gerund>
+
+  <VCE_DoBillsCanning.label>trabalha na máquina de enlatar</VCE_DoBillsCanning.label>
+  <VCE_DoBillsCanning.verb>enlatar</VCE_DoBillsCanning.verb>
+  <VCE_DoBillsCanning.gerund>enlatando comida em</VCE_DoBillsCanning.gerund>
+
+  <VCE_DoBillsPrep.label>trabalha em condimentos na mesa de preparação</VCE_DoBillsPrep.label>
+  <VCE_DoBillsPrep.verb>preparar condimentos</VCE_DoBillsPrep.verb>
+  <VCE_DoBillsPrep.gerund>trabalhando em condimentos em</VCE_DoBillsPrep.gerund>
+
+
+</LanguageData>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_ElectricPot.label>panela elétrica</VCE_ElectricPot.label>
+  <VCE_ElectricPot.description>Uma panela elétrica, também chamada de panela térmica, é um pequeno eletrodoméstico usado para ferver água e mantê-la em temperatura constante. É normalmente usado para fornecer uma fonte imediata de água quente para fazer sopa. Os ingredientes são submersos na água e deixados cozinhando por um longo per&#237;odo, enriquecendo o sabor da sopa.\n\nAo contrário de uma panela de ensopado primitiva, a panela elétrica é semiautomática, ela se lembrará do ingrediente de entrada selecionado e da receita, a menos que seja especificamente redefinida.</VCE_ElectricPot.description>
+
+  <VCE_Grill.label>churrasqueira</VCE_Grill.label>
+  <VCE_Grill.description>A churrasqueira é um dispositivo que cozinha os alimentos aplicando calor por baixo. Este é uma churrasqueira a lenha que necessita de madeira como combust&#237;vel para funcionar.</VCE_Grill.description>
+
+  <VCE_DeepFrier.label>fritadeira</VCE_DeepFrier.label>
+  <VCE_DeepFrier.description>Uma fritadeira é um aparelho de cozinha usado para fritar. Fritar é um método de cozinhar por imersão dos alimentos em óleo em alta temperatura, normalmente temperaturas entre os 175 °C a 190 °C.</VCE_DeepFrier.description>
+
+  <VCE_CanningMachine.label>máquina de enlatar</VCE_CanningMachine.label>
+  <VCE_CanningMachine.description>A máquina de enlatar ou enlatadora é um aparelho para armazenar alimentos preservados dentro de latas metálicas. Cada operação de enlatamento precisa de uma certa quantidade de aço.</VCE_CanningMachine.description>
+
+  <VCE_CondimentPrepTable.label>mesa de preparação de condimento</VCE_CondimentPrepTable.label>
+  <VCE_CondimentPrepTable.description>Mesa de trabalho para cortar, fatiar e preparar condimentos usados em receitas gourmet.</VCE_CondimentPrepTable.description>
+
+  <VCE_CheesePress.label>prensa de queijo</VCE_CheesePress.label>
+  <VCE_CheesePress.description>Uma prensa de queijo é um dispositivo para prensar o soro da coalhada ao fazer queijo. A prensagem influencia a dureza e a textura do queijo e também determina a forma do bloco ou da roda do queijo. Esta prensa também funciona como câmara de maturação, por isso, quanto mais tempo o queijo ficar a maturar, melhor será a sua qualidade.</VCE_CheesePress.description>
+
+
+</LanguageData>

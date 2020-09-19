@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- Soups -->
+	
+	<VCE_InsertSoup>inserir sopa</VCE_InsertSoup>
+	<VCE_InsertSoupDesc>Sopa para Cozinhar</VCE_InsertSoupDesc>
+	<VCE_NoSoupsFound>Nenhuma sopa desse tipo encontrada neste mapa.</VCE_NoSoupsFound>
+	<VCE_UncookedSoupSimple>sopa simples</VCE_UncookedSoupSimple>
+	<VCE_UncookedSoupFine>sopa boa</VCE_UncookedSoupFine>
+	<VCE_UncookedSoupLavish>sopa luxuosa</VCE_UncookedSoupLavish>
+	<VCE_UncookedSoupGourmet>sopa gourmet</VCE_UncookedSoupGourmet>	
+	<VCE_UncookedSoupSimple_InsertSoup>inserir sopa simples</VCE_UncookedSoupSimple_InsertSoup>
+	<VCE_UncookedSoupFine_InsertSoup>inserir sopa boa</VCE_UncookedSoupFine_InsertSoup>
+	<VCE_UncookedSoupLavish_InsertSoup>inserir sopa luxuosa</VCE_UncookedSoupLavish_InsertSoup>
+	<VCE_UncookedSoupGourmet_InsertSoup>inserir sopa gourmet</VCE_UncookedSoupGourmet_InsertSoup>
+	<VCE_SelectSoup>Selecione um tipo de sopa para cozinhar</VCE_SelectSoup>
+	<VCE_StartInsertion>Traga sopa</VCE_StartInsertion>
+	<VCE_StartInsertionDesc>Traga uma sopa para a panela elétrica para começar a cozinhar</VCE_StartInsertionDesc>
+	<VCE_RemoveSoup>Remover sopa</VCE_RemoveSoup>
+	<VCE_RemoveSoupDesc>Remova a sopa da panela. Isso só pode ser feito antes de começar a cozinhar.</VCE_RemoveSoupDesc>
+	<VCE_CancelBringingSoup>Cancelar trazer sopa</VCE_CancelBringingSoup>
+	<VCE_CancelBringingSoupDesc>Cancelar trazer sopa para a panela elétrica.</VCE_CancelBringingSoupDesc>
+	<VCE_WaitTillJobsEnd>Espere até que a sopa seja levada para a panela elétrica ou cancele o trabalho.</VCE_WaitTillJobsEnd>
+	<VCE_NotPowered>A panela elétrica não está energizada</VCE_NotPowered>
+	<VCE_Engage>Cozinhar sopa</VCE_Engage>
+	<VCE_EngageDesc>Comece a cozinhar a sopa. Este processo leva 3 dias e não pode ser interrompido, ou a sopa será destru&#237;da.</VCE_EngageDesc>
+	<VCE_SoupFailurePower>A sopa estragou devido a uma falha de energia na panela elétrica</VCE_SoupFailurePower>
+	<VCE_SoupFinished>Uma sopa terminou de cozinhar na panela elétrica</VCE_SoupFinished>
+	<VCE_SoupInProgress>Uma {0} está cozinhando. Estará pronto em {1}</VCE_SoupInProgress>
+	<VCE_SoupReady>Uma sopa terminou de cozinhar e está esperando para ser retirada</VCE_SoupReady>
+
+	<!-- Cheese making -->
+	
+	<VCE_InsertMilkDesc>Selecione leite para pressionar na prensa de queijo. Leites diferentes podem produzir diferentes tipos de queijo.</VCE_InsertMilkDesc>
+	<VCE_InsertMilk>Selecione leite</VCE_InsertMilk>
+	<VCE_InsertMilkVariable>Inserir {0}</VCE_InsertMilkVariable>
+	<VCE_NoMilksFound>Nenhum leite desse tipo encontrado neste mapa.</VCE_NoMilksFound>
+	<VCE_SelectMilk>Selecione um tipo de leite a ser prensado</VCE_SelectMilk>
+	<VCE_StartInsertionMilk>Traga leite</VCE_StartInsertionMilk>
+	<VCE_StartInsertionMilkDesc>Traga o leite para a prensa de queijo para começar a prensar</VCE_StartInsertionMilkDesc>
+	<VCE_RemoveMilk>Remover leite</VCE_RemoveMilk>
+	<VCE_RemoveMilkDesc>Remova o leite da prensa. Isso só pode ser feito antes de você começar a prensar.</VCE_RemoveMilkDesc>	
+	<VCE_CancelBringingMilk>Cancelar trazer leite</VCE_CancelBringingMilk>
+	<VCE_CancelBringingMilkDesc>Cancelar trazer de leite para a prensa de queijo.</VCE_CancelBringingMilkDesc>
+	<VCE_WaitTillJobsEndMilk>Espere até que o leite seja levado para a prensa de queijo ou cancele o trabalho.</VCE_WaitTillJobsEndMilk>
+	<VCE_EngageMilk>Prensar queijo</VCE_EngageMilk>
+	<VCE_EngageMilkDesc>Comece a prensagem do leite em queijo. Este processo leva um tempo variável e o queijo aumentará de qualidade com o maturação. Você pode removê-lo a qualquer momento após o per&#237;odo inicial.</VCE_EngageMilkDesc>
+	<VCE_CheeseFinished>Um queijo terminou de maturar na prensa de queijo</VCE_CheeseFinished>
+	<VCE_CheeseInProgress>Prensa de queijo está prensando o {0}. Estará pronto em {1} com a qualidade {2}</VCE_CheeseInProgress>
+	<VCE_CheeseReady>Um queijo atingiu o grau de maturação desejado e está esperando para ser retirado</VCE_CheeseReady>
+	<VCE_MilkImproperlyDefined>Este leite foi definido incorretamente para funcionar com a prensa de queijo, entre em contato com o autor do mod esse leite</VCE_MilkImproperlyDefined>
+	<VCE_RemoveCheese>Remover queijo ({0})</VCE_RemoveCheese>
+	<VCE_RemoveCheeseDesc>Remova o queijo da prensa. O queijo estará pronto no n&#237;vel de qualidade atual ({0})</VCE_RemoveCheeseDesc>
+	
+	<VCE_CheesePressEmpty>Prensa de queijo está vazia agora</VCE_CheesePressEmpty>
+	<VCE_CheesePressFilled>Prensa de queijo cheia de {0}</VCE_CheesePressFilled>
+	<VCE_CheesePressWorking>Prensa de queijo está funcionando:</VCE_CheesePressWorking>
+	<VCE_ResourcePercentage> (preenchido em {0} o {1})</VCE_ResourcePercentage>
+
+</LanguageData>

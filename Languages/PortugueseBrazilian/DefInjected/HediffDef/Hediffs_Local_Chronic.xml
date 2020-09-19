@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_Cholesterol.label>colesterol</VCE_Cholesterol.label>
+  <VCE_Cholesterol.description>O corpo humano precisa de colesterol para formar células saudáveis, mas n&#237;veis elevados de colesterol podem aumentar o risco de doenças card&#237;acas. Com o colesterol alto, os depósitos de gordura se desenvolvem dentro dos vasos sangu&#237;neos. Eventualmente, esses depósitos crescem, dificultando o fluxo de sangue suficiente pelas artérias..</VCE_Cholesterol.description>
+  <VCE_Cholesterol.stages.0.label>menor</VCE_Cholesterol.stages.0.label>
+  <VCE_Cholesterol.stages.1.label>grave</VCE_Cholesterol.stages.1.label>
+  <VCE_Cholesterol.stages.2.label>extremo</VCE_Cholesterol.stages.2.label>
+
+  <VCE_Diabetes.label>Diabetes</VCE_Diabetes.label>
+  <VCE_Diabetes.description>Diabetes é um grupo de distúrbios metabólicos caracterizados por um alto n&#237;vel de açúcar no sangue por um per&#237;odo prolongado de tempo. Os sintomas geralmente incluem micção frequente, aumento da sede e aumento do apetite.</VCE_Diabetes.description>
+  <VCE_Diabetes.stages.0.label>menor</VCE_Diabetes.stages.0.label>
+  <VCE_Diabetes.stages.1.label>grave</VCE_Diabetes.stages.1.label>
+  <VCE_Diabetes.stages.2.label>extremo</VCE_Diabetes.stages.2.label>
+
+  <VCE_HighBloodPressure.label>pressão alta</VCE_HighBloodPressure.label>
+  <VCE_HighBloodPressure.description>A pressão alta, também chamada de hipertensão, é uma condição comum em que a força de longo prazo do sangue contra as paredes das artérias é alta o suficiente para causar problemas de saúde, como doenças card&#237;acas.</VCE_HighBloodPressure.description>
+  <VCE_HighBloodPressure.stages.0.label>menor</VCE_HighBloodPressure.stages.0.label>
+  <VCE_HighBloodPressure.stages.1.label>grave</VCE_HighBloodPressure.stages.1.label>
+  <VCE_HighBloodPressure.stages.2.label>extremo</VCE_HighBloodPressure.stages.2.label>
+
+
+</LanguageData>

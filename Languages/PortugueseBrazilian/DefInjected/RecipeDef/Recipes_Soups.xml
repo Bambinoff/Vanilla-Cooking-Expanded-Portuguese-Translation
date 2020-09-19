@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_CookSoupSimple.label>preparar sopa simples</VCE_CookSoupSimple.label>
+  <VCE_CookSoupSimple.description>Prepare uma sopa simples não cozida a partir de um ingrediente.</VCE_CookSoupSimple.description>
+  <VCE_CookSoupSimple.jobString>Preparando sopa simples.</VCE_CookSoupSimple.jobString>
+
+  <VCE_CookSoupFine.label>preparar sopa boa</VCE_CookSoupFine.label>
+  <VCE_CookSoupFine.description>Prepare uma sopa boa não cozida, feito com cuidado a partir de uma boa variedade de ingredientes.</VCE_CookSoupFine.description>
+  <VCE_CookSoupFine.jobString>Preparando sopa boa.</VCE_CookSoupFine.jobString>
+
+  <VCE_CookSoupLavish.label>preparar sopa luxuosa</VCE_CookSoupLavish.label>
+  <VCE_CookSoupLavish.description>Prepare uma sopa luxuosa não cozida. Uma obra-prima da arte culinária, este assado nutre o corpo, a mente e alma.</VCE_CookSoupLavish.description>
+  <VCE_CookSoupLavish.jobString>Preparando sopa luxuosa.</VCE_CookSoupLavish.jobString>
+
+  <VCE_CookSoupGourmet.label>preparar sopa gourmet</VCE_CookSoupGourmet.label>
+  <VCE_CookSoupGourmet.description>Prepare uma sopa gourmet não cozida. Uma obra de arte gastronômica, caracterizada por uma requintada preparação elaborada e apresentação esteticamente equilibrada, embora em pequena quantidade.</VCE_CookSoupGourmet.description>
+  <VCE_CookSoupGourmet.jobString>Preparando sopa gourmet.</VCE_CookSoupGourmet.jobString>
+
+
+</LanguageData>

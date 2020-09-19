@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_CookDessertSimple.label>cozinhar sobremesa simples</VCE_CookDessertSimple.label>
+  <VCE_CookDessertSimple.description>Cozinhe uma sobremesa simples a partir de algumas frutas e outros ingredientes.</VCE_CookDessertSimple.description>
+  <VCE_CookDessertSimple.jobString>Cozinhando sobremesa simples.</VCE_CookDessertSimple.jobString>
+
+  <VCE_CookDessertSimpleBulk.label>cozinhar sobremesa simples x4</VCE_CookDessertSimpleBulk.label>
+  <VCE_CookDessertSimpleBulk.description>Cozinhe 4 sobremesas simples a partir de algumas frutas e outros ingredientes.</VCE_CookDessertSimpleBulk.description>
+  <VCE_CookDessertSimpleBulk.jobString>Cozinhando sobremesa simples.</VCE_CookDessertSimpleBulk.jobString>
+
+  <VCE_CookDessertFine.label>cozinhar sobremesa boa</VCE_CookDessertFine.label>
+  <VCE_CookDessertFine.description>Cozinhe uma sobremesa um pouco complexa a partir de uma combinação de ingredientes.</VCE_CookDessertFine.description>
+  <VCE_CookDessertFine.jobString>Cozinhando sobremesa boa.</VCE_CookDessertFine.jobString>
+
+  <VCE_CookDessertFineBulk.label>cozinhar sobremesa boa x4</VCE_CookDessertFineBulk.label>
+  <VCE_CookDessertFineBulk.description>Cozinhe 4 sobremesas um pouco complexa a partir de uma combinação de ingredientes.</VCE_CookDessertFineBulk.description>
+  <VCE_CookDessertFineBulk.jobString>Cozinhando sobremesa boa.</VCE_CookDessertFineBulk.jobString>
+
+  <VCE_CookDessertLavish.label>cozinhar sobremesa luxuosa</VCE_CookDessertLavish.label>
+  <VCE_CookDessertLavish.description>Cozinhe uma sobremesa muito complexa a partir de uma combinação de ingredientes. Essa sobremesa é uma obra-prima da arte culinária, ela nutre o corpo, a mente e alma.</VCE_CookDessertLavish.description>
+  <VCE_CookDessertLavish.jobString>Cozinhando sobremesa luxuosa.</VCE_CookDessertLavish.jobString>
+
+  <VCE_CookDessertLavishBulk.label>cozinhar sobremesa luxuosa x4</VCE_CookDessertLavishBulk.label>
+  <VCE_CookDessertLavishBulk.description>Cozinhe 4 sobremesas muito complexas a partir de uma combinação de ingredientes. Essas sobremesas são uma obra-prima da arte culinária, elas nutrem o corpo, a mente e alma.</VCE_CookDessertLavishBulk.description>
+  <VCE_CookDessertLavishBulk.jobString>Cozinhando sobremesa luxuosa.</VCE_CookDessertLavishBulk.jobString>
+
+  <VCE_CookDessertGourmet.label>cozinhar sobremesa gourmet</VCE_CookDessertGourmet.label>
+  <VCE_CookDessertGourmet.description>Cozinhe uma sobremesa muito complexa a partir de uma combinação de algumas frutas, condimentos e outros ingredientes. Essa sobremesa é uma obra de arte gastronômica, caracterizada por uma requintada preparação elaborada e apresentação esteticamente equilibrada, embora em pequena quantidade.</VCE_CookDessertGourmet.description>
+  <VCE_CookDessertGourmet.jobString>Cozinhando sobremesa gourmet.</VCE_CookDessertGourmet.jobString>
+
+
+</LanguageData>
